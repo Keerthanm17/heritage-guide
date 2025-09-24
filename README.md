@@ -2,7 +2,7 @@
 An intelligent tourism assistant that combines **AI, Machine Learning, and Next.js** to recognize monuments, provide detailed cultural insights, and deliver a multilingual, voice-enabled experience for travellers .
 ----
 1
-2
+
 
 ## ✨ Features  
 
