@@ -3,7 +3,6 @@ An intelligent tourism assistant that combines **AI, Machine Learning, and Next.
 ----
 1
 2
-4
 
 ## ✨ Features  
 
